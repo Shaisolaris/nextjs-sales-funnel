@@ -1,0 +1,37 @@
+{
+  "name": "nextjs-sales-funnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stripe/react-stripe-js": "^6.1.0",
+    "@stripe/stripe-js": "^9.0.1",
+    "braintree": "^3.36.0",
+    "braintree-web": "^3.139.0",
+    "builder.io": "^1.39.0",
+    "next": "^14.2.35",
+    "posthog-js": "^1.364.6",
+    "posthog-node": "^5.28.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stripe": "^21.0.1",
+    "svix": "^1.90.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/braintree": "^3.4.4",
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^6.0.2"
+  }
+}
