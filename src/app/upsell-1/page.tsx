@@ -1,3 +1,4 @@
+import { DEMO_MODE } from "@/lib/demo-data";
 'use client'
 
 import { useState } from 'react'
